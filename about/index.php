@@ -27,7 +27,7 @@
 	<!-- Body -->
 	<h2>Greetings! I'm Mark.</h2>
 	</br>
-	<p>I am a 22 year old Computer Science student working as a Software Engineer. I am working on a degree in Computer Science from RIT. I enjoy <a href="http://www.last.fm/user/repkam09">music</a>, cooking, programming, and playing video games - mostly Minecraft. This website acts as my personal page as well as the main site for my Minecraft Server, with quite a few game server related services.</p>
+	<p>I am a 23 year old Computer Science student working as a Software Engineer. I am working on a degree in Computer Science from RIT. I enjoy <a href="http://www.last.fm/user/repkam09">music</a>, cooking, programming, and playing video games - mostly Minecraft. This website acts as my personal page as well as the main site for my Minecraft Server, with quite a few game server related services.</p>
 
 	<p>I do enjoy programming and scripting in my free time and have been trying to get better at actually posting the things that I make on Github. If you want to take a look, you can find that <a href="https://github.com/repkam09">here</a>.</p>
 
