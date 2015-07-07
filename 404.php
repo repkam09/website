@@ -5,11 +5,11 @@
 </head>
 <body>
 <div id="wrapper">
-<?php include("/home/mark/website/header.php") ?>
+<?php include("/home/mark/website/template_header.php") ?>
 	<div id="extra" class="container">
 		<h1> Error 404! The page you requested was not found. Sorry about that. </h1>
 	</div>
 </div>
-<?php include("/home/mark/website/footer.php") ?>
+<?php include("/home/mark/website/template_footer.php") ?>
 </body>
 </html>

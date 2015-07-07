@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="wrapper">
-<?php include("/home/mark/website/header.php") ?>
+<?php include("/home/mark/website/template_header.php") ?>
 	<div id="extra" class="container">
 	<h2>Contact Information</h2>
 	<p>If you have any questions regarding anything on this website or my Github page, feel free to email me at "mark [at] repkam09.com"</p>
@@ -21,6 +21,6 @@
 	<p>I can also often be found on the 'repkam09.com' mumble server</p>
 	</div>
 </div>
-<?php include("/home/mark/website/footer.php") ?>
+<?php include("/home/mark/website/template_footer.php") ?>
 </body>
 </html>

@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="wrapper">
-<?php include("/home/mark/website/header.php") ?>
+<?php include("/home/mark/website/template_header.php") ?>
 	<div id="extra" class="container">
 		<h2>Greetings! I'm Mark.</h2>
 		</br>
@@ -24,6 +24,6 @@
 		</br>
 	</div>
 </div>
-<?php include("/home/mark/website/footer.php") ?>
+<?php include("/home/mark/website/template_footer.php") ?>
 </body>
 </html>
