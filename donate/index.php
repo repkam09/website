@@ -1,29 +1,12 @@
 <html>
 <head>
-<title>Donate</title>
+<title>Mark Repka</title>
 <link href="/css/default.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
-<?php include_once("/home/mark/website/analyticstracking.php") ?>
 <div id="wrapper">
-	<div id="header-wrapper">
-	<div id="header" class="container">
-		<div id="logo">
-			<h1><a href="/">Mark Repka</a></h1>
-			<p>Software engineer who runs a Minecraft server!</p>
-		</div>
-		<div id="menu">
-			<ul>
-				<li><a href="/" accesskey="1" title="">Homepage</a></li>
-				<li><a href="/about" accesskey="2" title="">About</a></li>
-				<li><a href="/contact" accesskey="3" title="">Contact</a></li>
-				<li class="current_page_item"><a href="/donate" accesskey="4" title="">Donate</a></li>
-			</ul>
-		</div>
-	</div>
-	</div>
-	<div id="extra" class="container">
-	<h2>Donate</h2>
+<?php include("/home/mark/website/header.php") ?>
+<h2>Donate</h2>
 	<p>Want to help support the server? This is the place for you! I pay for all of the server costs out of pocket, and while it is not a huge amount, any help would be apperciated! Anything that is donated here will be put right back into paying for this server.</p>
 
 	</br>
@@ -45,8 +28,8 @@
 	</br>
 	</br>
 	</br>
+
 </div>
-<!-- End of wrapper -->
 <?php include("/home/mark/website/footer.php") ?>
 </body>
 </html>

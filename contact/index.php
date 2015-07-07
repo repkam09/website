@@ -4,27 +4,9 @@
 <link href="/css/default.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
-<?php include_once("/home/mark/website/analyticstracking.php") ?>
-
 <div id="wrapper">
-	<div id="header-wrapper">
-	<div id="header" class="container">
-		<div id="logo">
-			<h1><a href="/">Mark Repka</a></h1>
-			<p>Software engineer who runs a Minecraft server!</p>
-		</div>
-		<div id="menu">
-			<ul>
-				<li><a href="/" accesskey="1" title="">Homepage</a></li>
-				<li><a href="/about" accesskey="2" title="">About</a></li>
-				<li class="current_page_item"><a href="/contact" accesskey="3" title="">Contact</a></li>
-				<li><a href="/donate" accesskey="4" title="">Donate</a></li>
-			</ul>
-		</div>
-	</div>
-	</div>
+<?php include("/home/mark/website/header.php") ?>
 	<div id="extra" class="container">
-	<!-- Body -->
 	<h2>Contact Information</h2>
 	<p>If you have any questions regarding anything on this website or my Github page, feel free to email me at "mark [at] repkam09.com"</p>
 
@@ -37,7 +19,6 @@
 	</br>
 	<h2>Mumble Server</h2>
 	<p>I can also often be found on the 'repkam09.com' mumble server</p>
-	<!-- End Body -->
 	</div>
 </div>
 <?php include("/home/mark/website/footer.php") ?>
