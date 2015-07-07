@@ -6,6 +6,7 @@
 <body>
 <div id="wrapper">
 <?php include("/home/mark/website/template_header.php") ?>
+<div id="extra" class="container">
 <h2>Donate</h2>
 	<p>Want to help support the server? This is the place for you! I pay for all of the server costs out of pocket, and while it is not a huge amount, any help would be apperciated! Anything that is donated here will be put right back into paying for this server.</p>
 
