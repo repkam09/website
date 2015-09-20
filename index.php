@@ -17,9 +17,16 @@
 			</div>
 			<div class="tbox2">
 				<div class="box">
-					<h2>Mumble Server</h2>
-					<a href="mumble://repkam09.com"><img src=/img/mumble.png></a>
-					<p>Want to chat with other players in game? Hop in the mumble chat!</p>
+					<h2>Software Demos</h2>
+					<a href="/tools"><img src=/img/software.png></a>
+					<p>View running software demos of things that I have written</p>
+				</div>
+			</div>
+			<div class="tbox3">
+				<div class="box">
+					<h2>Tempreature Monitor</h2>
+					<a href="/tools/raspi-temp-monitor/"><img src=/img/pi.png></a>
+					<p>View the running Tempreature Monitor graph to see the tempreature of my house in real(ish) time! Powered y a Raspberry Pi computer</p>
 				</div>
 			</div>
 		</div>
