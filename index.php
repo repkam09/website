@@ -17,16 +17,9 @@
 			</div>
 			<div class="tbox2">
 				<div class="box">
-					<h2>Software Demos</h2>
-					<a href="/tools"><img src=/img/software.png></a>
-					<p>View running software demos of things that I have written</p>
-				</div>
-			</div>
-			<div class="tbox3">
-				<div class="box">
 					<h2>Tempreature Monitor</h2>
 					<a href="/tools/raspi-temp-monitor/"><img src=/img/pi.png></a>
-					<p>View the running Tempreature Monitor graph to see the tempreature of my house in real(ish) time! Powered y a Raspberry Pi computer</p>
+					<p>View the running temperature monitor graph to see the temperature of my house in real(ish) time!</p>
 				</div>
 			</div>
 		</div>
