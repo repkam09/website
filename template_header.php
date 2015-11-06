@@ -8,7 +8,6 @@
 </div>
 <div id="menu">
 	<ul>
-		<li><a href="/" accesskey="1" title="">Homepage</a></li>
 		<li><a href="/blog" accesskey="1" title="">Blog</a></li>
 		<li><a href="/about" accesskey="2" title="">About</a></li>
 		<li><a href="/contact" accesskey="3" title="">Contact</a></li>
