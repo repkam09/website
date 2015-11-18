@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url(/img/repcast.jpg);
+}
+
+.logo {
+  background-image: url(/img/logo.png);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url(/img/splash.png);
+}
+
+.watermark {
+  background-image: url(/img/watermark.png);
+  background-size: 57px 57px;
+}
