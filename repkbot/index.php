@@ -41,14 +41,14 @@
 			<div class="boxB">
 				<div class="box">
 					<h2>View Commands</h2>
-					<a href="/tools/raspi-temp-monitor/"><img src=/img/software.png></a>
+					<a href="https://github.com/repkam09/repbot-irc/blob/master/README.md"><img src=/img/software.png></a>
 					<p>View the current list of supported commands</p>
 				</div>
 			</div>
 			<div class="boxC">
             	<div class="box">
                 	<h2>In Action</h2>
-                    <a href="https://github.com/repkam09/repbot-irc/blob/master/README.md"><img src=/img/twitch.png></a>
+                    <a href="http://twitch.tv/repkam09/chat/"><img src=/img/twitch.png></a>
                     <p>See it in action on the repkam09 Twitch.TV channel</p>
                 </div>
             </div>
