@@ -50,6 +50,12 @@
                                         <p><a href="http://www.handimania.com/cooking/braided-nutella-star-bread-all-steps.html">handimania.com</a></p>     
                                 </div>
                         </div>
+			<div class="boxA">
+                                <div class="box">
+                                        <p>Chicken Bacon Bites</p>
+                                        <p><a href="http://www.cookingcomically.com/?page_id=782">cookingcomically.com</a></p>     
+                                </div>
+                        </div>
 		</div>
 	</div>
 </div>
