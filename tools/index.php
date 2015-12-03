@@ -10,6 +10,10 @@
 		<h2> Tools and In Progress code! Things may be broken...</h2>
 	<?php
 	foreach(glob('./*', GLOB_ONLYDIR) as $dir) {
+	    if (file_exists($dir . '/build')) {
+		$dir = $dir . '/build';
+	    }
+
 	    $dir = str_replace('./', '', $dir);
 	    echo "<a href='./$dir'>$dir</a></br>";
 	}
